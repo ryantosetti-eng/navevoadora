@@ -1,4 +1,4 @@
-combustivel = 110
+combustivel = 100
 tripulantes = []
 
 def viajar():
